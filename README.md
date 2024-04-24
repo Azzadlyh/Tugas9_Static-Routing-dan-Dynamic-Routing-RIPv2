@@ -2,7 +2,7 @@
 
 **TOPOLOGI STATIC ROUTING**
 
-![image](https://github.com/Azzadlyh/Tugas9_Static-Routing-dan-Dynamic-Routing-RIPv2/assets/126213404/3056c7cb-e084-4207-b9ef-4493a204f7dc)
+![image](https://github.com/Azzadlyh/Tugas9_Static-Routing-dan-Dynamic-Routing-RIPv2/assets/126213404/5a6ecfd3-cece-4760-8666-250e32980f3e)
 
 
 # Konfigurasi Static Routing :
